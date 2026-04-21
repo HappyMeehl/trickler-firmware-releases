@@ -1,0 +1,13 @@
+{
+  "name": "Meehl Solutions Powder Trickler",
+  "chipFamily": "ESP32-S3",
+  "offset": 65536,
+  "releases": [
+    {
+      "version": "1.3.0",
+      "file": "releases/FW130.bin",
+      "notes": "Initial public release",
+      "published": "2026-04-15"
+    }
+  ]
+}
