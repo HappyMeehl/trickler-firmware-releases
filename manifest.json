@@ -8,12 +8,6 @@
                          "file":  "releases/FW133.bin",
                          "notes":  "Merged image (bootloader+partitions+app); flashes at 0x0",
                          "published":  "2026-04-20"
-                     },
-                     {
-                         "version":  "1.3.0",
-                         "file":  "releases/FW130.bin",
-                         "notes":  "Initial public release (merged image)",
-                         "published":  "2026-04-20"
                      }
                  ]
 }
