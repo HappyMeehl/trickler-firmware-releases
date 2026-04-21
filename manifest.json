@@ -4,12 +4,6 @@
     "offset":  0,
     "releases":  [
                      {
-                         "version":  "1.3.4",
-                         "file":  "releases/FW134.bin",
-                         "notes":  "Feature Test 1.3.4",
-                         "published":  "2026-04-21"
-                     },
-                     {
                          "version":  "1.3.3",
                          "file":  "releases/FW133.bin",
                          "notes":  "Merged image (bootloader+partitions+app); flashes at 0x0",
