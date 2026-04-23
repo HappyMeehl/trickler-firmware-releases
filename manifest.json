@@ -4,6 +4,12 @@
     "offset":  0,
     "releases":  [
                      {
+                         "version":  "1.3.5",
+                         "file":  "releases/FW135.bin",
+                         "notes":  "Fix bulk handoff behavior: keep bulk-under stop fixed across passes; taper correction move size only on later bulk passes.",
+                         "published":  "2026-04-22"
+                     },
+                     {
                          "version":  "1.3.4",
                          "file":  "releases/FW134.bin",
                          "notes":  "Feature Test 1.3.4 - bulk-\u003etrickle at max(1Gn, bulkUnderTarget); no iter cap",
