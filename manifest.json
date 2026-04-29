@@ -4,6 +4,12 @@
     "offset":  0,
     "releases":  [
                      {
+                         "version":  "1.3.7-beta",
+                         "file":  "releases/FW137beta.bin",
+                         "notes":  "Beta: Smoother bulk/trickle stops with deferred coil disable; softened reverse-state diagnostics for end-of-move overshoot.",
+                         "published":  "2026-04-29"
+                     },
+                     {
                          "version":  "1.3.6",
                          "file":  "releases/FW136.bin",
                          "notes":  "Lower bulk calibration floor to 30 Gn/rev",
