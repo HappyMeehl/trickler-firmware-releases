@@ -1,0 +1,6 @@
+﻿{
+    "version":  "2.1.0-beta",
+    "notes":  "V2.1 Beta: full web dashboard (live control, fleet/multi-unit, stats), WiFi join from screen or web, captive portal, browser OTA, MQTT remote support, session controls, e-stop broadcast. NOTE: first install from 2.0.x requires USB/web-serial flash (new partition table); archived sessions reset once.",
+    "appFile":  "releases/FW210app.bin",
+    "published":  "2026-08-30"
+}

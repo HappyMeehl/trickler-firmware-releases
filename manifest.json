@@ -4,6 +4,13 @@
     "offset":  0,
     "releases":  [
                      {
+                         "version":  "2.1.0-beta",
+                         "file":  "releases/FW210.bin",
+                         "notes":  "V2.1 Beta: full web dashboard (live control, fleet/multi-unit, stats), WiFi join from screen or web, captive portal, browser OTA, MQTT remote support, session controls, e-stop broadcast. NOTE: first install from 2.0.x requires USB/web-serial flash (new partition table); archived sessions reset once.",
+                         "published":  "2026-08-30",
+                         "appFile":  "releases/FW210app.bin"
+                     },
+                     {
                          "version":  "2.0.0-beta",
                          "file":  "releases/FW200.bin",
                          "notes":  "V2.0 Beta Release: universal Type A/B board support (auto-detect), session pause/resume + history, touch fixes, stats overhaul",
