@@ -4,6 +4,13 @@
     "offset":  0,
     "releases":  [
                      {
+                         "version":  "0.0.2",
+                         "file":  "releases/FW002.bin",
+                         "notes":  "Test build: stable multi-unit discovery (unicast keep-alives), on-screen WiFi password keyboard fixes (letters + lowercase), quieter logs. Same one-time USB/web-serial flash requirement as 2.1.0-beta when coming from 2.0.x.",
+                         "published":  "2026-08-30",
+                         "appFile":  "releases/FW002app.bin"
+                     },
+                     {
                          "version":  "2.1.0-beta",
                          "file":  "releases/FW210.bin",
                          "notes":  "V2.1 Beta: full web dashboard (live control, fleet/multi-unit, stats), WiFi join from screen or web, captive portal, browser OTA, MQTT remote support, session controls, e-stop broadcast. NOTE: first install from 2.0.x requires USB/web-serial flash (new partition table); archived sessions reset once.",
