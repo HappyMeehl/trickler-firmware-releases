@@ -2,5 +2,5 @@
     "appFile":  "releases/FW002app.bin",
     "version":  "0.0.2",
     "published":  "2026-08-30",
-    "notes":  "Test build: stable multi-unit discovery (unicast keep-alives), on-screen WiFi password keyboard fixes (letters + lowercase), quieter logs. Same one-time USB/web-serial flash requirement as 2.1.0-beta when coming from 2.0.x."
+    "notes":  "Test build: USB now defaults to native serial (web flashing just works; PC typing enables USB HID mode via menu, restart required), new WiFi menu (Create/Join a network, IP+MAC, connect QR), multi-unit discovery + keyboard fixes."
 }

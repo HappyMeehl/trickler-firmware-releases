@@ -42,7 +42,7 @@
                      {
                          "version":  "0.0.2",
                          "file":  "releases/FW002.bin",
-                         "notes":  "Test build: web dashboard + fleet features, stable multi-unit discovery, WiFi join fixes. NOTE: coming from 2.0.x or older requires USB/web-serial flash (new partition table); archived sessions reset once.",
+                         "notes":  "Test build: USB now defaults to native serial (web flashing just works; PC typing enables USB HID mode via menu, restart required), new WiFi menu (Create/Join a network, IP+MAC, connect QR), multi-unit discovery + keyboard fixes.",
                          "published":  "2026-08-30",
                          "appFile":  "releases/FW002app.bin"
                      }
