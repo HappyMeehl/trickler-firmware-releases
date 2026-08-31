@@ -1,6 +1,6 @@
 ﻿{
-    "appFile":  "releases/FW002app.bin",
-    "version":  "0.0.2",
-    "published":  "2026-08-30",
-    "notes":  "Test build: USB now defaults to native serial (web flashing just works; PC typing enables USB HID mode via menu, restart required), new WiFi menu (Create/Join a network, IP+MAC, connect QR), multi-unit discovery + keyboard fixes."
+    "version":  "0.0.3",
+    "notes":  "Test build: USB now defaults to native serial (web flashing just works; PC typing enables USB HID mode via menu, restart required), new WiFi menu (Create/Join a network, IP+MAC, connect QR), multi-unit discovery + keyboard fixes.",
+    "appFile":  "releases/FW003app.bin",
+    "published":  "2026-08-30"
 }
