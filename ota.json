@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "0.0.3",
-    "notes":  "Test build: USB now defaults to native serial (web flashing just works; PC typing enables USB HID mode via menu, restart required), new WiFi menu (Create/Join a network, IP+MAC, connect QR), multi-unit discovery + keyboard fixes.",
-    "appFile":  "releases/FW003app.bin",
-    "published":  "2026-08-30"
+    "version":  "0.0.4",
+    "notes":  "AF100 Beta (Non-Functional Testing): passive scale stream mode, ARM dispense gate, admin raw scale monitor - internal test build, not for production use",
+    "appFile":  "releases/FW004app.bin",
+    "published":  "2026-09-02"
 }
