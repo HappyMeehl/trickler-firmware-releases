@@ -4,13 +4,13 @@
     "offset":  0,
     "releases":  [
                      {
-                         "version":  "2.0.0-beta",
+                         "version":  "2.0.0",
                          "file":  "releases/FW200.bin",
                          "notes":  "V2.0 Beta Release: universal Type A/B board support (auto-detect), session pause/resume + history, touch fixes, stats overhaul",
                          "published":  "2026-08-28"
                      },
                      {
-                         "version":  "1.3.7-beta",
+                         "version":  "1.3.7",
                          "file":  "releases/FW137beta.bin",
                          "notes":  "Beta: Smoother bulk/trickle stops with deferred coil disable; softened reverse-state diagnostics for end-of-move overshoot.",
                          "published":  "2026-04-29"
@@ -40,21 +40,21 @@
                          "published":  "2026-04-20"
                      },
                      {
-                         "version":  "0.0.2",
+                         "version":  "0.0.2-beta",
                          "file":  "releases/FW002.bin",
                          "notes":  "Test build: USB now defaults to native serial (web flashing just works; PC typing enables USB HID mode via menu, restart required), new WiFi menu (Create/Join a network, IP+MAC, connect QR), multi-unit discovery + keyboard fixes.",
                          "published":  "2026-08-30",
                          "appFile":  "releases/FW002app.bin"
                      },
                      {
-                         "version":  "0.0.3",
+                         "version":  "0.0.3-beta",
                          "file":  "releases/FW003.bin",
                          "notes":  "Test build: USB now defaults to native serial (web flashing just works; PC typing enables USB HID mode via menu, restart required), new WiFi menu (Create/Join a network, IP+MAC, connect QR), multi-unit discovery + keyboard fixes.",
                          "published":  "2026-08-30",
                          "appFile":  "releases/FW003app.bin"
                      },
                      {
-                         "version":  "0.0.4",
+                         "version":  "0.0.4-beta",
                          "file":  "releases/FW004.bin",
                          "notes":  "AF100 Beta (Non-Functional Testing): passive scale stream mode, ARM dispense gate, admin raw scale monitor - internal test build, not for production use",
                          "published":  "2026-09-02",
