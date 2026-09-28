@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "0.0.4",
-    "notes":  "AF100 Beta (Non-Functional Testing): passive scale stream mode, ARM dispense gate, admin raw scale monitor - internal test build, not for production use",
-    "appFile":  "releases/FW004app.bin",
-    "published":  "2026-09-02"
+    "version":  "0.0.5-beta",
+    "notes":  "AF100 Compatibility Mode: AF100 dispense flow on standard scale settings (ARM gate, no zero commands, adaptive settle + deviation retries) - internal test build",
+    "appFile":  "releases/FW005app.bin",
+    "published":  "2026-09-28"
 }

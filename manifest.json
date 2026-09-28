@@ -4,6 +4,13 @@
     "offset":  0,
     "releases":  [
                      {
+                         "version":  "0.0.5-beta",
+                         "file":  "releases/FW005.bin",
+                         "notes":  "AF100 Compatibility Mode: AF100 dispense flow on standard scale settings (ARM gate, no zero commands, adaptive settle + deviation retries) - internal test build",
+                         "published":  "2026-09-28",
+                         "appFile":  "releases/FW005app.bin"
+                     },
+                     {
                          "version":  "2.0.0",
                          "file":  "releases/FW200.bin",
                          "notes":  "V2.0 Beta Release: universal Type A/B board support (auto-detect), session pause/resume + history, touch fixes, stats overhaul",
